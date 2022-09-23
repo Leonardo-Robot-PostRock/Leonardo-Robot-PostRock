@@ -1,5 +1,5 @@
 ### Hi, i'm Leonardo 👋
-![Sobre mí](https://user-images.githubusercontent.com/44589066/152202173-51e154bc-9179-4b09-bc98-d714b3e88861.gif)
+![Sobre mí]
 
 <!--
 **Leonardo-Robot-PostRock/Leonardo-Robot-PostRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
