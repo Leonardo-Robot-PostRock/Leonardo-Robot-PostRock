@@ -16,10 +16,6 @@ About Me:
 --------------
 I am a passionate 29-year-old programmer who simply loves diving into the world of coding. My journey started with JavaScript, a language that truly captured my heart with its versatility and ability to bring life to web applications. However, my curiosity knows no bounds, and I find myself equally drawn to Python, which I plan to explore further in the future.
 
-About the Toolkit:
---------------
-This comprehensive toolkit is carefully curated to equip you with the essential technologies and tools you need as a JavaScript developer. Here, you'll find an array of front-end and back-end frameworks, databases, design libraries, and APIs, all aimed at empowering you to build robust and efficient web applications.
-
 ## Technologies and Tools
 
 ### Front-end Frameworks:
@@ -78,15 +74,3 @@ Each technology in the toolkit has its own documentation and resources. You can 
 - Primer Flex: [Primer Flex Docs](https://primer.style/flex/)
 - PrimeNG: [PrimeNG Docs](https://primefaces.org/primeng/showcase/#/setup)
 - SCSS: [SCSS Docs](https://sass-lang.com/documentation)
-
-Feel free to explore each technology to enhance your skills and build amazing projects.
-
-## License
-
-This toolkit is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute it as per the terms of the license.
-
-## Contributions
-
-If you find any issues or have suggestions for improvements, please consider contributing to this toolkit. Fork the repository, make your changes, and submit a pull request. Your contributions are greatly appreciated!
-
-Happy coding! 🚀
