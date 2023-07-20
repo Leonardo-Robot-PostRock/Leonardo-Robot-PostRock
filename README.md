@@ -4,10 +4,44 @@
 # JavaScript Developer's Toolkit
 
 ![JavaScript Developer](https://example.com/images/javascript_developer.png)
+# JavaScript Developer's Toolkit
+
+![JavaScript Developer](https://example.com/images/javascript_developer.png)
 
 ## Overview
 
-Welcome to the JavaScript Developer's Toolkit! This README will guide you through the technologies and tools that you will be working with in your role as a JavaScript developer. The toolkit includes various frameworks, libraries, databases, and design tools to help you build powerful and efficient web applications.
+Hello there! Welcome to the JavaScript Developer's Toolkit, curated especially for you. My name is Leonardo, and I'm excited to share a bit about myself and this fantastic toolkit with you.
+
+About Me:
+--------------
+I am a passionate 29-year-old programmer who simply loves diving into the world of coding. My journey started with JavaScript, a language that truly captured my heart with its versatility and ability to bring life to web applications. However, my curiosity knows no bounds, and I find myself equally drawn to Python, which I plan to explore further in the future.
+
+About the Toolkit:
+--------------
+This comprehensive toolkit is carefully curated to equip you with the essential technologies and tools you need as a JavaScript developer. Here, you'll find an array of front-end and back-end frameworks, databases, design libraries, and APIs, all aimed at empowering you to build robust and efficient web applications.
+
+## Tags
+
+- #JavaScript
+- #React
+- #Angular
+- #Node.js
+- #MySQL
+- #MariaDB
+- #MongoDB
+- #SQL
+- #POSTMAN
+- #RESTfulAPI
+- #Axios
+- #DOMManipulation
+- #CSS
+- #Bootstrap
+- #TailwindCSS
+- #MaterialUI
+- #AngularMaterial
+- #PrimerFlex
+- #PrimeNG
+- #SCSS
 
 ## Technologies and Tools
 
