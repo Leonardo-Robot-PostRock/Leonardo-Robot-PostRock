@@ -48,7 +48,8 @@ I am a passionate 29-year-old programmer who simply loves diving into the world 
 DOM Manipulation ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) Angular Material, Primer Flex, PrimeNG ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-    
+
+> Skill Summary
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,nodejs,react,angular,ts,git,mongodb,mysql)](https://skills.thijs.gg)
 
 ## How to Use
