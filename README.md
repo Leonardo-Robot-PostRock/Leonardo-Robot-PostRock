@@ -15,37 +15,39 @@ I am a passionate 29-year-old programmer who simply loves diving into the world 
 
 ### Front-end Frameworks:
 
-1. React ![React Icon](https://example.com/images/react_icon.png)
-2. Angular ![Angular Icon](https://example.com/images/angular_icon.png)
+1. React 
+2. Angular
 
 ### Back-end Frameworks:
 
-1. Node.js ![Node.js Icon](https://example.com/images/nodejs_icon.png)
+1. Node.js
 
 ### Databases:
 
-1. MySQL ![MySQL Icon](https://example.com/images/mysql_icon.png)
-2. MariaDB ![MariaDB Icon](https://example.com/images/mariadb_icon.png)
-3. MongoDB ![MongoDB Icon](https://example.com/images/mongodb_icon.png)
-4. SQL ![SQL Icon](https://example.com/images/sql_icon.png)
+1. MySQL 
+2. MariaDB 
+3. MongoDB 
+4. SQL
 
 ### API and Testing:
 
-1. POSTMAN ![POSTMAN Icon](https://example.com/images/postman_icon.png)
-2. RESTful API ![RESTful API Icon](https://example.com/images/restful_api_icon.png)
-3. Axios ![Axios Icon](https://example.com/images/axios_icon.png)
+1. POSTMAN 
+2. RESTful API
+3. Axios
 
 ### Front-end Design:
 
-1. DOM Manipulation ![DOM Icon](https://example.com/images/dom_icon.png)
-2. CSS ![CSS Icon](https://example.com/images/css_icon.png)
-3. Bootstrap ![Bootstrap Icon](https://example.com/images/bootstrap_icon.png)
-4. Tailwind CSS ![Tailwind Icon](https://example.com/images/tailwind_icon.png)
-5. Material UI ![Material UI Icon](https://example.com/images/material_ui_icon.png)
-6. Angular Material ![Angular Material Icon](https://example.com/images/angular_material_icon.png)
-7. Primer Flex ![Primer Flex Icon](https://example.com/images/primer_flex_icon.png)
-8. PrimeNG ![PrimeNG Icon](https://example.com/images/primeng_icon.png)
-9. SCSS ![SCSS Icon](https://example.com/images/scss_icon.png)
+1. DOM Manipulation
+2. CSS
+3. Bootstrap
+4. Tailwind CSS
+5. Material UI
+6. Angular Material
+7. Primer Flex
+8. PrimeNG 
+9. SCSS
+    
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,nodejs,react,angular,ts,git,mongodb,mysql)](https://skills.thijs.gg)
 
 ## How to Use
 
