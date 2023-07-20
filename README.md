@@ -1,12 +1,4 @@
-### Hi, i'm Leonardo 👋
-
-
-# JavaScript Developer's Toolkit
-
-![JavaScript Developer](https://example.com/images/javascript_developer.png)
-# JavaScript Developer's Toolkit
-
-![JavaScript Developer](https://example.com/images/javascript_developer.png)
+### Hi, My name is Leonardo and I'm JavaScript developer👋
 
 ## Overview
 
