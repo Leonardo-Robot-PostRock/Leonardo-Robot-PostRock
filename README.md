@@ -23,7 +23,7 @@ I am a passionate 29-year-old programmer who simply loves diving into the world 
 1. Node.js
 
 ### Databases:
-
+- I'm studing at the moment
 1. MySQL 
 2. MariaDB 
 3. MongoDB 
