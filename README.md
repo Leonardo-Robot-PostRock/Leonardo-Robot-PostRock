@@ -9,6 +9,9 @@ About Me:
 I am a passionate 29-year-old programmer who simply loves diving into the world of coding. I began my programming journey with Java, and then I studied JavaScript, developing a strong affinity for that language due to its versatility and ability to bring life to web applications. However, my curiosity knows no bounds, and I find myself equally drawn to Python, which I plan to explore further in the future.
 
 ## Technologies and Tools
+### Languages
+
+1. JavaScript
 
 ### Front-end Frameworks:
 
@@ -33,7 +36,7 @@ I am a passionate 29-year-old programmer who simply loves diving into the world 
 3. Axios ![Axios Icon](https://example.com/images/axios_icon.png)
 
 ### Front-end Design:
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 1. DOM Manipulation ![DOM Icon](https://example.com/images/dom_icon.png)
 2. CSS ![CSS Icon](https://example.com/images/css_icon.png)
 3. Bootstrap ![Bootstrap Icon](https://example.com/images/bootstrap_icon.png)
