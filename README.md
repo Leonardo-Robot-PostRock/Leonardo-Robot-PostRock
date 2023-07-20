@@ -36,7 +36,7 @@ I am a passionate 29-year-old programmer who simply loves diving into the world 
 3. Axios ![Axios Icon](https://example.com/images/axios_icon.png)
 
 ### Front-end Design:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 1. DOM Manipulation ![DOM Icon](https://example.com/images/dom_icon.png)
 2. CSS ![CSS Icon](https://example.com/images/css_icon.png)
 3. Bootstrap ![Bootstrap Icon](https://example.com/images/bootstrap_icon.png)
