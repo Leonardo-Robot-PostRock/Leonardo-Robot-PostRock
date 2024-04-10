@@ -1,4 +1,4 @@
-### Hi, My name is Leonardo and I'm JavaScript developer👋
+### Hi, My name is Leonardo and I'm Fullstack developer👋
 
 ## Overview
 
