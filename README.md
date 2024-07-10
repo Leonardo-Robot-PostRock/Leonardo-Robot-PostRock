@@ -52,12 +52,6 @@ I am a passionate 29-year-old programmer who simply loves diving into the world 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) 
 DOM Manipulation, Angular Material, Primer Flex, PrimeNG
-
------------------------
-
-> **Skill Summary**
-
-[![My Skills]
 - CSS: [MDN CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Bootstrap: [Bootstrap Docs](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - Tailwind CSS: [Tailwind CSS Docs](https://tailwindcss.com/docs)
