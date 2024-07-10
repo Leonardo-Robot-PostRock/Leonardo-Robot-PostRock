@@ -57,22 +57,7 @@ DOM Manipulation, Angular Material, Primer Flex, PrimeNG
 
 > **Skill Summary**
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,nodejs,react,angular,ts,git,mongodb,mysql)](https://skills.thijs.gg)
-
-## How to Use
-
-Each technology in the toolkit has its own documentation and resources. You can use the links below to access them:
-
-- React: [React Docs](https://reactjs.org/docs/getting-started.html)
-- Angular: [Angular Docs](https://angular.io/docs)
-- Node.js: [Node.js Docs](https://nodejs.org/en/docs/)
-- MySQL: [MySQL Documentation](https://dev.mysql.com/doc/)
-- MariaDB: [MariaDB Documentation](https://mariadb.com/kb/en/documentation/)
-- MongoDB: [MongoDB Docs](https://docs.mongodb.com/)
-- SQL: [SQL Tutorial](https://www.w3schools.com/sql/)
-- POSTMAN: [POSTMAN Docs](https://learning.postman.com/docs/getting-started/introduction/)
-- Axios: [Axios Docs](https://axios-http.com/docs/intro)
-- DOM Manipulation: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+[![My Skills]
 - CSS: [MDN CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Bootstrap: [Bootstrap Docs](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - Tailwind CSS: [Tailwind CSS Docs](https://tailwindcss.com/docs)
