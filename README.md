@@ -50,6 +50,7 @@ I am a passionate 29-year-old programmer who simply loves diving into the world 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CHAKRA-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) 
 [![PrimeNG](https://img.shields.io/badge/PrimeNG-v16-blue)](https://www.primefaces.org/primeng-v16-lts/badge)
 [![DOM Manipulation](https://img.shields.io/badge/DOM-Manipulation-brightgreen)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
