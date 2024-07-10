@@ -57,7 +57,7 @@ DOM Manipulation, Angular Material, Primer Flex, PrimeNG
 
 > **Skill Summary**
 
-![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,nodejs,react,angular,ts,git,mongodb,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,nodejs,react,angular,ts,git,mongodb,mysql)](https://skills.thijs.gg)
 
 ## How to Use
 
