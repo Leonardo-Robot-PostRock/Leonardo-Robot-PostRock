@@ -6,7 +6,7 @@ Hello there! Welcome to the JavaScript Developer's Toolkit, curated especially f
 
 About Me:
 --------------
-I am a passionate 29-year-old programmer who simply loves diving into the world of coding. I am a student of the software development career at the <a href="https://www.iesmb.edu.ar/bel/" target="_blank">Manuel Belgrano Institute</a>. I began my programming journey with Java, and then I studied JavaScript, developing a strong affinity for that language due to its versatility and ability to bring life to web applications. However, my curiosity knows no bounds, and I find myself equally drawn to Python, which I plan to explore further in the future.
+I am a passionate 29-year-old programmer who simply loves diving into the world of coding.
 
 ## Technologies and Tools
 ### Languages
