@@ -6,7 +6,7 @@ Hello there! Welcome to the JavaScript Developer's Toolkit, curated especially f
 
 About Me:
 --------------
-I am a passionate 31-year-old programmer who simply loves diving into the world of coding.
+I am a 31-year-old programmer focused on delivering results through solid engineering and professional experience. I work in software development as a career, motivated by building reliable solutions and being compensated fairly for my work.
 
 ## Technologies and Tools
 ### Languages
