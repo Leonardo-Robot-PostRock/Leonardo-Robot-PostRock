@@ -37,8 +37,18 @@ I value clean code, clear requirements, and pragmatic solutions.
 <div align="center">
 
 <a href="https://github.com/Leonardo-Robot-PostRock">
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Leonardo-Robot-PostRock&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Robot-PostRock&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=424242&icon_color=0071e3&ring_color=0071e3&border_radius=12"/>
 </a>
+
+<a href="https://github.com/Leonardo-Robot-PostRock">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Robot-PostRock&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=424242&border_radius=12&langs_count=6&hide=html,css"/>
+</a>
+
+</div>
+
+<div align="center">
+  
+**Active on GitHub** · Building in public · Open source contributor
 
 </div>
 
