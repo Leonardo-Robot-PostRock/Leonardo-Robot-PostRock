@@ -6,7 +6,7 @@
 
 **Transforming legacy systems into modern, scalable solutions**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardocode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Leonardo-Robot-PostRock)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo38361@gmail.com)
 [![Location](https://img.shields.io/badge/Mendoza%2C%20Argentina-00C853?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
@@ -36,8 +36,8 @@ I value clean code, clear requirements, and pragmatic solutions.
 
 <div align="center">
 
-<a href="https://github.com/leonardocode">
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=leonardocode&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://github.com/Leonardo-Robot-PostRock">
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Leonardo-Robot-PostRock&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 </div>
@@ -120,7 +120,7 @@ I value clean code, clear requirements, and pragmatic solutions.
 
 **Open to remote opportunities and interesting projects**
 
-📧 leonardo38361@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/leonardocode) · 📍 Mendoza, Argentina
+📧 leonardo38361@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/Leonardo-Robot-PostRock) · 📍 Mendoza, Argentina
 
 </div>
 
@@ -128,7 +128,7 @@ I value clean code, clear requirements, and pragmatic solutions.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=leonardocode&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Leonardo-Robot-PostRock&color=blueviolet&style=for-the-badge)
 
 **⭐ If you find my work interesting, consider starring my repositories!**
 
