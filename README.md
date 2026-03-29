@@ -36,15 +36,7 @@ I value clean code, clear requirements, and pragmatic solutions.
 
 <div align="center">
 
-<a href="https://github.com/Leonardo-Robot-PostRock">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Robot-PostRock&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=424242&icon_color=0071e3&ring_color=0071e3&border_radius=12"/>
-</a>
-
-<a href="https://github.com/Leonardo-Robot-PostRock">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Robot-PostRock&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=424242&border_radius=12&langs_count=6&hide=html,css"/>
-</a>
-
-</div>
+![Leonardo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Leonardo-Robot-PostRock&show_icons=true&theme=transparent)
 
 <div align="center">
   
