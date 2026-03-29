@@ -36,7 +36,7 @@ I value clean code, clear requirements, and pragmatic solutions.
 
 <div align="center">
 
-![Leonardo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Leonardo-Robot-PostRock&show_icons=true&theme=transparent)
+![Leonardo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Leonardo-Robot-PostRock&show_icons=true&theme=radical)
 
 <div align="center">
   
