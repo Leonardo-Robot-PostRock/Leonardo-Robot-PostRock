@@ -21,7 +21,7 @@ const leonardo = {
   role: "Full Stack Developer",
   experience: "3+ years",
   focus: ["React", "Svelte", "Node.js", "DDD", "Java", "React Native"],
-  currently: "Building CoNeko Marketplace from scratch and building an open source spring boot application",
+  currently: "Building CoNeko Marketplace from scratch and developing/thinking a Spring Boot application to improve and streamline the IT hiring process",
   location: "Mendoza, Argentina 🇦🇷",
   passions: ["Legacy modernization", "Clean architecture", "Performance optimization"]
 };
