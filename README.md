@@ -122,7 +122,7 @@ I value clean code, clear requirements, and pragmatic solutions.
 
 **Open to remote opportunities and interesting projects**
 
-📧 leonardo38361@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/Leonardo-Robot-PostRock) · 📍 Mendoza, Argentina
+📧 contact@leonardopuebla.com · 💼 [LinkedIn](https://linkedin.com/in/Leonardo-Robot-PostRock) · 📍 Mendoza, Argentina
 
 </div>
 
