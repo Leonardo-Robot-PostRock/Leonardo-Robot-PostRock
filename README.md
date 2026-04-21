@@ -7,7 +7,7 @@
 **Transforming legacy systems into modern, scalable solutions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Leonardo-Robot-PostRock)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo38361@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=webmail&logoColor=white)](mailto:contact@leonardopuebla.com)
 [![Location](https://img.shields.io/badge/Mendoza%2C%20Argentina-00C853?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 </div>
