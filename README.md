@@ -38,6 +38,10 @@ I value clean code, clear requirements, and pragmatic solutions.
 
 ![Leonardo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Leonardo-Robot-PostRock&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+## Top programming languages
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Leonardo-Robot-PostRock&layout=compact&theme=radical)
+
 <div align="center">
   
 **Active on GitHub** · Building in public · Open source contributor
