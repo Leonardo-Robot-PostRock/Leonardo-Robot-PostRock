@@ -36,9 +36,7 @@ I value clean code, clear requirements, and pragmatic solutions.
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-Robot-PostRock&theme=radical)
+![Leonardo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Leonardo-Robot-PostRock&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 <div align="center">
   
